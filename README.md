@@ -6,7 +6,7 @@ This project contains a gitignore that will stop most IDE specific files as well
 
 #### Getting started example with IDEA ####
 
-#### Build project to a *.jar ####
+##### Build project to a *.jar #####
 * Git clone this project to your local workstation.
 * Open IntelliJ IDEA and select the option to import an project
 * After going through the import process we will open the File menu and select Project Structure.
